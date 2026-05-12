@@ -1,4 +1,4 @@
-# PantherDelivery – Campus Logistics REST API
+# PantherDelivery 🐾📦 – Campus Logistics REST API
 
 PantherDelivery is a small campus delivery management system built for CSC 450 Computer Networks. It simulates how an autonomous robot delivery service could register packages, assign available robots, and track delivery progress across campus.
 
