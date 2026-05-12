@@ -1,0 +1,14 @@
+[
+    {
+        "id": "robot_001",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "robot_002",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "robot_003",
+        "status": "AVAILABLE"
+    }
+]
